@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![picture](https://cdn.jsdelivr.net/gh/LeeDebug/PicGo/img/20201210233843.gif)
-
 <details open>
   <summary><b>SPcc's github stats</b></summary>
 
